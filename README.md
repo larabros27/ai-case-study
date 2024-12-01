@@ -59,6 +59,8 @@ With the help of the Dell AI professionals, their customers do not have to worry
 
 The Professional Services for AI offering that Dell provides to their customers is intended for business of all sizes. Dell has customers of all sizes and given the expertise that Dell is offering, they would be able to scale to any customer size or need. From small mom and pop customers to large manufacturing corporations, Dell has found a way to cater to all of them. 
 
+The offerings and support will have to be customized to fit the requiremens of the customer and the current infrastructure the customer operates in. If the company is large enough to have their own servers and other hardware, Dell could help by upgrading the current hardware to ensure that it supports the increased computing and storage requirements that are needed to support AI technologies and processes. If the company currently resides on a shared cloud solution, Dell can move their environments to be hosted on one of the shared cloud servers that support AI technologies and processes, which will allow the customer to tap into the AI world without incurring additional costs of new hardware and the maintenance costs associated with that hardware.
+
 * __What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)__
 
 One key advantage that Dell has over other companies is that it is also a big player in the infrastructure needed to implement the AI strategies most customers need or want. Dell's ability to not only offer the infrastructure their customer needs, but to offer the services to maintain that infrastructure puts Dell in a unique position that has helped them to solidify their position as a leader in the AI industry.
